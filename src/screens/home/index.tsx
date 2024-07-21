@@ -22,6 +22,7 @@ export default function Home() {
     setParticipantName('');
   }
 
+
   function handleParticipantRemove(name: string) {
 
 
